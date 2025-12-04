@@ -1,14 +1,13 @@
 # VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion
 
-**[论文标题]**: VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion  
-**[作者]**: Zaidao Han, Risa Higashita, Jiang Liu  
-**[期刊]**: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+****: VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion  
+****: Zaidao Han, Risa Higashita, Jiang Liu  
 
 ---
 
 ## 📢 News / Updates
 
-* **2025-03**: Our paper has been submitted to IEEE TCSVT.
+
 * **Coming Soon** 🚀: The code and pre-trained models will be released immediately upon publication. Please **star ⭐ this repository** to receive notifications!
 
 ---
@@ -37,12 +36,6 @@ VOIC achieves state-of-the-art performance on the SemanticKITTI hidden test set.
 
 ---
 
-## 📝 Methodology
-
-  
-**Figure:** The proposed VOIC framework. (a) Visible Embedding Feature Constructor (VEFC); (b) Visible Decoder (VD); (c) Occlusion Decoder (OD).
-
----
 
 ## 📅 TODO
 
@@ -50,16 +43,4 @@ VOIC achieves state-of-the-art performance on the SemanticKITTI hidden test set.
 * [ ] Release pre-trained models (SemanticKITTI & SSCBench).
 * [ ] Provide VRLE preprocessing scripts.
 
----
 
-## 🔗 Citation
-
-If you find our work useful in your research, please consider citing:
-
-```bibtex
-@article{han2025voic,
-  title={VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion},
-  author={Han, Zaidao and Higashita, Risa and Liu, Jiang},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)},
-  year={2025}
-}
