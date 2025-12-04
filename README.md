@@ -1,7 +1,7 @@
 # VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion
 
-****: VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion  
-****: Zaidao Han, Risa Higashita, Jiang Liu  
+
+Zaidao Han, Risa Higashita, Jiang Liu  
 
 ---
 
