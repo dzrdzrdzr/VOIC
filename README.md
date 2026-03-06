@@ -32,7 +32,7 @@ VOIC achieves state-of-the-art performance on the SemanticKITTI hidden test set.
 
 | Method | IoU (%) | mIoU (%) |
 | :--- | :---: | ---: |
-| **VOIC (Ours)** | **45.69** | **17.42** |
+| **VOIC (Ours)** | **45.22** | **18.01** |
 
 ---
 
