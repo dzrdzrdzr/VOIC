@@ -1,4 +1,4 @@
-# VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion
+# VOIC: Visible–Occluded Integrated Guidance for 3D Semantic Scene Completion
 
 
 Zaidao Han, Risa Higashita, Jiang Liu  
