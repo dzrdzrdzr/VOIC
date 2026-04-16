@@ -8,12 +8,13 @@ Zaidao Han, Risa Higashita, Jiang Liu
 
 ### VOIC Result
 
-https://github.com/user-attachments/assets/b10e4376-74c1-4575-bf0a-b1e9039ea2eb
+https://github.com/user-attachments/assets/c99150af-eb98-44d1-9538-255268b58cea
 
 ### Comparison Result
 
-https://github.com/user-attachments/assets/c99150af-eb98-44d1-9538-255268b58cea
+https://github.com/user-attachments/assets/b10e4376-74c1-4575-bf0a-b1e9039ea2eb
 
+---
 
 ## 📢 News / Updates
 
