@@ -4,6 +4,17 @@ Zaidao Han, Risa Higashita, Jiang Liu
 
 ---
 
+## 🎬 Visualization
+
+### VOIC Result
+
+https://github.com/user-attachments/assets/b10e4376-74c1-4575-bf0a-b1e9039ea2eb
+
+### Comparison Result
+
+https://github.com/user-attachments/assets/c99150af-eb98-44d1-9538-255268b58cea
+
+
 ## 📢 News / Updates
 
 * **Coming Soon** 🚀: The code and pre-trained models will be released immediately upon publication. Please **star ⭐ this repository** to receive notifications!
