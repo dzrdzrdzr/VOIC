@@ -2,23 +2,6 @@
 
 Zaidao Han, Risa Higashita, Jiang Liu
 
-
-
-## 🎬 Visualization
-
-### VOIC Result
-
-<p align="center">
-  <video controls width="900" src="https://raw.githubusercontent.com/dzrdzrdzr/VOIC/main/assets/voic_demo.mp4"></video>
-</p>
-
-### Comparison Result
-
-<p align="center">
-  <video controls width="900" src="https://raw.githubusercontent.com/dzrdzrdzr/VOIC/main/assets/comparison_demo.mp4"></video>
-</p>
-
-
 ---
 
 ## 📢 News / Updates
