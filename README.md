@@ -2,6 +2,12 @@
 
 Zaidao Han, Risa Higashita, Jiang Liu
 
+
+### Paper
+
+VOIC: Visible–Occluded Integrated Guidance for 3D Semantic Scene Completion
+[https://arxiv.org/abs/2512.18954](https://arxiv.org/abs/2512.18954)
+
 ---
 
 ## 🎬 Visualization
